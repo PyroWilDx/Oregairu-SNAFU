@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OreGairu SNAFU</string>
+    <string name="imageDesc">Description</string>
+
+    <string name="animeName">Yahari Ore no Seishun Rabu Kome wa Machigatteiru.</string>
+
+    <string name="navHomeTitle">Home</string>
+    <string name="navQuotesTitle">Quotes (Anime)</string>
+    <string name="navSettingsTitle">Settings</string>
+    <string name="navLightNovel">Light Novel Reader</string>
+    <string name="navMusic">Music Player</string>
+    <string name="navWebSite">Communities</string>
+    <string name="navTuturu">Tuturu?</string>
+
+    <string name="navTracks">Tracks</string>
+    <string name="navPlaylist">Playlist</string>
+    <string name="navPlaying">Playing</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nightModeON">Reader night mode ? (ON)</string>
+    <string name="nightModeOFF">Reader night mode ? (OFF)</string>
+    <string name="splashScreenSettings">Display splash screen at start</string>
+    <string name="orientationLandscapeLocked">Reader Orientation : Landscape (Locked)</string>
+    <string name="orientationUnlocked">Reader Orientation : Whatever (Unlocked)</string>
+
+    <string name="recommendedReadingOrder">Recommended reading order : Volume 1, 2, 3, 4, 5, 6,
+        6.5_1 (P.1-327), 7.5, 7, 8, 9, 6.5_2 (P.328-END), 10, 10.5, 11, 12, 13, 14.</string>
+    <string name="goToWhichPage">Start at which page ?</string>
+
+    <string name="hachimanNameOnly">Hachiman</string>
+    <string name="yukinoNameOnly">Yukino</string>
+    <string name="shizukaNameOnly">Shizuka</string>
+    <string name="othersNameOnly">Others</string>
+
+    <string name="ok">OK</string>
+
+    <string name="repeatON">Repeat : ON</string>
+    <string name="repeatOFF">Repeat : OFF</string>
+
+    <string name="pressBackAgain">Press back again to close the app</string>
+    <string name="toastSavedPage">Saved page :</string>
+
+    <string name="noMusicAdded">There is actually no song in your playlist.\nAdd some by clicking on the plus
+        button! (bottom-right of the screen)</string>
+    <string name="clickToSort">Click on the songs you want to move!</string>
+    <string name="pressYui">Press Yui !</string>
+    <string name="navManga">Monologue (MangaDex)</string>
+    <string name="mangadexError">Sorry an error occurred, please check your internet connection or try to go on
+        mangadex.org and search for the OreGairu Monologue mange with your browser.</string>
+    <string name="reload">Reload</string>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBlackNightLight"
+    android:gravity="center_vertical">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/listview_circleimageview"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/list_pressed_background"
+        android:padding="8dp"
+        android:src="@drawable/music_cd_3_cover" />
+
+    <TextView
+        android:id="@+id/listview_textview"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:background="@drawable/list_pressed_background"
+        android:gravity="center_vertical"
+        android:minHeight="?android:attr/listPreferredItemHeight"
+        android:textColor="@color/colorWhiteNightLight"
+        android:textSize="16sp" />
+
+</LinearLayout>

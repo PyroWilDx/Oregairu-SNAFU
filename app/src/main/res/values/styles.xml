@@ -1,0 +1,23 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorOregairuPink</item>
+        <item name="colorPrimaryDark">@color/colorOregairuBlue</item>
+        <item name="colorAccent">@color/colorOregairuBlue</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+
+    <style name="AppTheme.HomeDrawerActionBar">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="SwitchOregairuTheme" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">#2AC1FD</item>
+        <item name="android:colorBackground">#2AC1FD</item>
+        <item name="colorSwitchThumbNormal">#F945B0</item>
+        <item name="android:colorForeground">#F945B0</item>
+    </style>
+
+</resources>

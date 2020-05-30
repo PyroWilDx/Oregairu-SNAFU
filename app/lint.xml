@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="GifUsage">
+        <ignore path="src/main/res/drawable/nav_header_gif.gif" />
+        <ignore path="src/main/res/drawable/yahallo_totsuka_gif.gif" />
+    </issue>
+    <issue id="IconLauncherShape">
+        <ignore path="src/main/res/mipmap-hdpi/ic_launcher_foreground.png" />
+        <ignore path="src/main/res/mipmap-mdpi/ic_launcher_foreground.png" />
+        <ignore path="src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" />
+        <ignore path="src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" />
+        <ignore path="src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" />
+    </issue>
+    <issue id="IconLocation">
+        <ignore path="src/main/res/drawable/chibi_hachiman.PNG" />
+        <ignore path="src/main/res/drawable/chibi_yui.PNG" />
+        <ignore path="src/main/res/drawable/chibi_yukino.PNG" />
+        <ignore path="src/main/res/drawable/chibi_yukino.PNG" />
+        <ignore path="src/main/res/drawable/degrade_listview_divider.png" />
+        <ignore path="src/main/res/drawable/drawerheader_image.png" />
+        <ignore path="src/main/res/drawable/facebook_oregairu_page_icon.png" />
+        <ignore path="src/main/res/drawable/hachiman_chibi.PNG" />
+        <ignore path="src/main/res/drawable/icon_oregairu.png" />
+        <ignore path="src/main/res/drawable/logo_discord.png" />
+        <ignore path="src/main/res/drawable/logo_facebook.png" />
+        <ignore path="src/main/res/drawable/logo_fandom.png" />
+        <ignore path="src/main/res/drawable/logo_reddit.png" />
+        <ignore path="src/main/res/drawable/logo_wikipedia.png" />
+        <ignore path="src/main/res/drawable/music_cd_3_cover.png" />
+        <ignore path="src/main/res/drawable/music_charasong_cover.png" />
+        <ignore path="src/main/res/drawable/music_charasong_cover.png" />
+        <ignore path="src/main/res/drawable/music_charasong_cover.png" />
+        <ignore path="src/main/res/drawable/music_charasong_cover.png" />
+        <ignore path="src/main/res/drawable/music_charasongzoku_cover.png" />
+        <ignore path="src/main/res/drawable/music_degrade_background.png" />
+        <ignore path="src/main/res/drawable/music_degrade_background.png" />
+        <ignore path="src/main/res/drawable/music_degrade_background.png" />
+        <ignore path="src/main/res/drawable/music_everydayworld_cover.png" />
+        <ignore path="src/main/res/drawable/music_festival_music.png" />
+        <ignore path="src/main/res/drawable/music_harumodoki_cover.png" />
+        <ignore path="src/main/res/drawable/music_helloalone_cover.png" />
+        <ignore path="src/main/res/drawable/music_ost_cover.png" />
+        <ignore path="src/main/res/drawable/music_ostzoku_cover.png" />
+        <ignore path="src/main/res/drawable/music_outtrack_cover.png" />
+        <ignore path="src/main/res/drawable/music_yui_everydayworld.png" />
+        <ignore path="src/main/res/drawable/music_yukino_everydayworld.png" />
+        <ignore path="src/main/res/drawable/music_yukino_piano.png" />
+        <ignore path="src/main/res/drawable/music_yukitoki_cover.png" />
+        <ignore path="src/main/res/drawable/nav_header_gif.gif" />
+        <ignore path="src/main/res/drawable/oregairu_discussion_discord_icon.png" />
+        <ignore path="src/main/res/drawable/splash_screen_image.png" />
+        <ignore path="src/main/res/drawable/toolbar_background_image.png" />
+        <ignore path="src/main/res/drawable/transparent_oregairu_pink_color.png" />
+        <ignore path="src/main/res/drawable/yahallo_haruno.png" />
+        <ignore path="src/main/res/drawable/yahallo_komachi.png" />
+        <ignore path="src/main/res/drawable/yahallo_totsuka_gif.gif" />
+        <ignore path="src/main/res/drawable/yahallo_yui.png" />
+        <ignore path="src/main/res/drawable/yui_chibi.PNG" />
+        <ignore path="src/main/res/drawable/yui_yahallo.png" />
+        <ignore path="src/main/res/drawable/yukino_chibi.PNG" />
+    </issue>
+</lint>

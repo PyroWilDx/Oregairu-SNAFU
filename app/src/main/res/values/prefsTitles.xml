@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="argsPlaylistNumber">playlistNumber</string>
+
+    <string name="prefsName">Settings</string>
+    <string name="prefsMusicPaused">musicPaused</string>
+    <string name="prefsVolumeLevel">volumeLevel</string>
+    <string name="prefsStoredPage">storedPageNumber</string>
+    <string name="prefsScape">Scape</string>
+    <string name="prefsNightMode">nightMode</string>
+    <string name="prefsSplashScreen">splashScreenDisplay</string>
+    <string name="prefsCustomTracksList">customTrackList</string>
+    <string name="yuiPressedTimes">yuiPressedTimes</string>
+    <string name="prefsMangaDexURL">mangadexURL</string>
+
+</resources>

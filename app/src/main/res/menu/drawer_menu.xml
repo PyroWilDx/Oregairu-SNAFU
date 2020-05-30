@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/icon_home"
+            android:title="@string/navHomeTitle" />
+        <item
+            android:id="@+id/nav_music"
+            android:icon="@drawable/icon_music"
+            android:title="@string/navMusic" />
+        <item
+            android:id="@+id/nav_lightNovel"
+            android:icon="@drawable/icon_book"
+            android:title="@string/navLightNovel" />
+        <item
+            android:id="@+id/nav_manga"
+            android:icon="@drawable/icon_mangadex"
+            android:title="@string/navManga" />
+        <item
+            android:id="@+id/nav_quotes"
+            android:icon="@drawable/icon_quotes_end"
+            android:title="@string/navQuotesTitle" />
+        <item
+            android:id="@+id/nav_tuturu"
+            android:icon="@drawable/icon_tuturu"
+            android:title="@string/navTuturu" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/icon_settings"
+            android:title="@string/navSettingsTitle" />
+    </group>
+
+
+</menu>

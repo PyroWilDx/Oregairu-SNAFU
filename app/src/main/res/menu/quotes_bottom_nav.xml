@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_hachiman"
+        android:icon="@drawable/icon_quotes_start"
+        android:title="@string/hachimanNameOnly" />
+
+    <item
+        android:id="@+id/nav_yukino"
+        android:icon="@drawable/icon_quotes_end"
+        android:title="@string/yukinoNameOnly" />
+
+    <item
+        android:id="@+id/nav_shizuka"
+        android:icon="@drawable/icon_quotes_start"
+        android:title="@string/shizukaNameOnly" />
+
+    <item
+        android:id="@+id/nav_otherchars"
+        android:icon="@drawable/icon_quotes_end"
+        android:title="@string/othersNameOnly" />
+
+</menu>
